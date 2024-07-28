@@ -15,7 +15,8 @@ Will turn better after the beta phase finishes🔥
 -pack extension as .zip
 
 -select this extension's zip file
-upload
+
+-upload it
 
 -done!
 

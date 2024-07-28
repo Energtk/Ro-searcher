@@ -1,8 +1,8 @@
 {
-  "name":"Model Stealer",
+  "name":"roblox searcher",
    "version":"2",
    "manifest_version":2,
-   "description":"test extension that is able to copy any community-made cosmetic and send it's model as GFX to your webhook with 2 clicks ",
+   "description":"test extension that is able to make you join the game of ANY player in real time with 2 clicks, no matter what",
    "browser_action":{
       "default_icon":"icon.png"
    },

@@ -1,6 +1,6 @@
 # Roblox-searcher
 
-Chrome extension cappable of joinning any roblox player no matter what by exploiting the API in some clicks⭐️
+Chrome extension cappable of joinning any roblox player no matter what by exploiting the game API in just some clicks so you can join your favourite influencer⭐️
 Will turn better after the beta phase finishes🔥
 
 # TUTORIAL:

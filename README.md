@@ -4,14 +4,20 @@ Chrome extension cappable of joinning any roblox player no matter what by exploi
 Will turn better after the beta phase finishes🔥
 
 # TUTORIAL:
-download this repo as .zip
-go to Chrome (in pc) or install kiwi browser in mobile (desktop mode)
-go to "extensions"
-click developer mode
-pack extension as .zip
-select this extension's zip file
+-download this repo as .zip
+
+-go to Chrome (in pc) or install kiwi browser in mobile (desktop mode)
+
+-go to "extensions"
+
+-click developer mode
+
+-pack extension as .zip
+
+-select this extension's zip file
 upload
-done!
+
+-done!
 
 https://lh3.googleusercontent.com/fife/ALs6j_GBER43Ca3SeRHONaSdecGQElARTQNE2sjuxUmCY9Qcgedhw0iSKSwsJyW45JMJMLOnZlSxqAXVvkqgIYH6VJ4I8chGJ5omqew__RkeIbGiqOTVVyi1DbBrOBjYv5WYRjEOCFMDwKHm8BG7Ku5640Dwo9CbTkdSRHyCu3qHTbX816vSaiqNMOHaTEYOiKYVTODUX5lWsUh2HYkqI6u17u2x0CJsgu9kE8lDXlkxykGHukZQbhV3-V3ptjhDmwm3eMUdFX7OQftqZ9lE74JUY29Z51e3ya-73HldonzPtg0rpuhdTC1Fn-Fhu_xnf605kxXqUoerYC0FBKYh8tmuPbFMQkJuvT7lBEKHglHLeG3oq4inxViPQM0JuUJhjcMgR6up1Znp_vfxEHAHjua3JtsYsn__nAILd6IC2FeXQWMl2473o6F2RCVM9AnXtOWE5dfMKuVcoYWy7ktn8Z6ZNtKr6Nlxh5u-5ZLut1-vWfoVIr_aAQmMdjAhOC1WT2QXwz1g-Vnd464fKdVPzplvC-E4wtI_ya-qhzvnwBfnKoE_uzjGhPqQ_3mrDIqWnurRtkwAjySqUWND5EaJx5LmxNppQoxtkpVJVaj7LEkjrOjJF9RmyP7r9UkixM81sotrwRro8q3yL3QOyUvU-C7EnnCuCLUBKxm3HBJEXIDHZujbAcWq11sJfQrcMnrcWF17u5f5LasfQzu-28mRndXtBtofmGlzHKl2LSxDS_mFKGrxhssym44EGD4410koj7t26o1PHtg4frZ1V2T28Q09VIl9fa6gaRo8x0JdZjGCBrQTHl3Gs_Tnqwc7tcVQdljk15XpdKdrQsaoLKlDZ8Y5mcRgEZGFcctey7YaHHb9I1k4fyUsZwpMuk3RzWbwxIagGbl0nE0e5_puArGx6oKR8g5u71H0lY1WPtvwYib9HkhAOcU9vV_FzNXpOp3x7RLSpwaqMyLe9Hzexes6aNKSXbJMFLb_hC7i4c3FrauQfYN7DxyseZNrAJ3IV6HKBSmIDckQA5S8ctucdie4lobfFK3rr5aTMoANbjyJanpNX_4SxL4-elg6HZCDmgreVYqZjDn-bHdpF2Kyx3Hnk6M4fi9tBnpURwbDhzE5QBiZmIaZI6f8o3WYB3zTGHp2RWOy4Gm_BY-Wb1DGTDGCHrbmhgUvxCYfjh7tENtQ70lT5F4jAE1n0ZB1hLcfNEuWxOcZt06gJiAcAg=s1080-w1080-h159-n-k?authuser=0&cs=1&hl=es-US
 
